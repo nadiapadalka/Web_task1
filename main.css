@@ -1,8 +1,13 @@
+
+
 .main{
+
+
   border-radius:50%;
   width:60%;
   height:60%;
 }
+
 div.home{
   margin-top: 100px;
 }
@@ -44,10 +49,12 @@ body {
   vertical-align: middle;
   width: 100%;
 }
+
 .carousel_img{
   height:20%;
   width:30%;
 }
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .column {
