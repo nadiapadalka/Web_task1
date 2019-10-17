@@ -1,13 +1,12 @@
-.main{
-  border-radius:50%;
-  width:60%;
+
+
+img.main_img{
+
   height:60%;
-}
-img{
-  height:50%;
-  width:50%;
+  width:60%;
   border-radius: 50%;
 }
+
 div.home{
   margin-top: 100px;
 }
